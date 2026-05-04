@@ -5,11 +5,10 @@ NIM: [F1D02310136]
 Deskripsi Aplikasi
 Aplikasi Student Contact App merupakan aplikasi berbasis Android yang digunakan untuk menyimpan dan mengelola data kontak mahasiswa. Pengguna dapat menambahkan, melihat, mengedit, dan menghapus data mahasiswa dengan mudah melalui tampilan yang sederhana dan user-friendly.
 
-## 🖼️ Screenshot Aplikasi
 
-### 🔐 Halaman Login
+Halaman Login
 <p align="center">
-  <img src="![login](image.png)" width="60%">
+  <img src="(ss/(image.png)" width="60%">
 </p>
 
 ---
