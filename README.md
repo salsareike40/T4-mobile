@@ -13,85 +13,73 @@ Halaman Login
 
 ---
 
-### 📝 Halaman Daftar Siswa
+Halaman Daftar Siswa
 <p align="center">
-  <img src="![daftar siswa](image-1.png)" width="60%">
+  <img src="ss/image-1.png" width="60%">
 </p>
 
 ---
 
-### 📋 Halaman Catatan Siswa
+Halaman Catatan Siswa
 <p align="center">
-  <img src="screenshots/image-2.png" width="60%">
+  <img src="ss/image-2.png" width="60%">
 </p>
 
 ---
 
-### 📂 Student Directory
+Student Directory
 <p align="center">
-  <img src="screenshots/image-4.png" width="60%">
+  <img src="ss/image-4.png" width="60%">
 </p>
 
 ---
 
-### ✏️ Halaman Edit Data
+Halaman Edit Data informatika
 <p align="center">
-  <img src="screenshots/image-5.png" width="60%">
+  <img src="ss/image-5.png" width="60%">
 </p>
 
 ---
 
-### 🔄 Perubahan Data
+Perubahan Data jadi sistem informasi
 <p align="center">
-  <img src="screenshots/image-3.png" width="60%">
+  <img src="ss/image-3.png" width="60%">
 </p>
 
 ---
 
-### 🗑️ Hapus Data
+Hapus Data
 <p align="center">
-  <img src="screenshots/image-6.png" width="60%">
+  <img src="ss/image-6.png" width="60%">
 </p>
 
 ---
 
-### ✅ Data Berhasil Dihapus
+Data Berhasil Dihapus
 <p align="center">
-  <img src="screenshots/image-7.png" width="60%">
+  <img src="ss/image-7.png" width="60%">
 </p>
 
 ---
 
-### 👤 Halaman Profile
+Halaman Profile
 <p align="center">
-  <img src="screenshots/image-8.png" width="60%">
+  <img src="ss/image-8.png" width="60%">
 </p>
 
 ---
 
-### ➕ Tambah Siswa
+Tambah Siswa
 <p align="center">
-  <img src="screenshots/image-9.png" width="60%">
+  <img src="ss/image-9.png" width="60%">
 </p>
 
 ---
 
-### 🎉 Data Berhasil Ditambahkan
+Data Berhasil Ditambahkan
 <p align="center">
-  <img src="screenshots/image-10.png" width="60%">
+  <img src="ss/image-10.png" width="60%">
 </p>
-
-![login](image.png)
-![daftar siswa](image-1.png)
-![catatan siswa](image-2.png)
-![student directory](image-4.png)
-![edit](image-5.png)
-![edit ahmad dari informatika jadi sistem informasi](image-3.png)
-![hapus siswa](image-6.png)
-![siswa sudah dihapus](image-7.png)
-![tampilan profile](image-8.png)
-![tambah siswa](image-9.png)
-![ahmad telah ditambahkan](image-10.png)
 
 Metode Penyimpanan, Aplikasi ini menggunakan SQLite Database sebagai metode penyimpanan data.
 Alasan menggunakan SQLite:
