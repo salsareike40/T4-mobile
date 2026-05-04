@@ -8,7 +8,7 @@ Aplikasi Student Contact App merupakan aplikasi berbasis Android yang digunakan 
 
 Halaman Login
 <p align="center">
-  <img src="(ss/(image.png)" width="60%">
+  <img src="ss/image.png" width="60%">
 </p>
 
 ---
